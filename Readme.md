@@ -39,6 +39,9 @@ Funcionamiento de la Aplicación
 
 ![](Imagenes/Captura%201.png)
 
+	1.1 Se ingresará el nombre de usuario y la contraseña del gestor lo que dará acceso a las siguientes pantallas, que vendría siendo el main menu lo que nos dará acceso a 
+        todas las opciones que posee la aplicación.En caso de que la contraseña o el nombre de usuario sean incorrectas, la aplicación saltara un mensaje de advertencia comunicándalo.
+	
 	2.    Ya en el main menu, podemos encontrarnos cinco botones diferentes los cuales cumplen las funciones de: Registrar una cita del ciudadano, cola de espera, proceso de vacunación, historial de vacunación e historial de inicios de sesión.
 
 ![](Imagenes/Captura%202.png)
