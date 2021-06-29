@@ -2,7 +2,7 @@
 
 ASPECTOS TÉCNICOS:
 
-A continuacion se detallan los aspectos técnicos del presente proyectos, abarcando las extensiones que fueron instaladas en  el desarrollo del mismo y también los programas utilizados
+A continuacion se detallan los aspectos técnicos del presente proyectos, abarcando las extensiones que fueron instaladas en  el desarrollo del mismo y también los programas utilizados  
 
 -Windows 10 
 
