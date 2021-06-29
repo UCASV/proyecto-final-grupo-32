@@ -37,7 +37,7 @@ Funcionamiento de la Aplicación
 
 	1.    A la hora de ingresar a la aplicación mediante el ejecutable .exe, se abrirá una ventana que permite iniciar sesión mediante los usuarios registrados en la base de datos que poseen el puesto de gestores, los cuales tiene un acceso completo en la interacción con la aplicación.
 
-![] ()
+![](Imagenes/Captura%201.png)
 
 	2.    Ya en el main menu, podemos encontrarnos cinco botones diferentes los cuales cumplen las funciones de: Registrar una cita del ciudadano, cola de espera, proceso de vacunación, historial de vacunación e historial de inicios de sesión.
 
