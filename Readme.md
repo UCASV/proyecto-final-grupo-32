@@ -41,55 +41,55 @@ Funcionamiento de la Aplicación
 
 	2.    Ya en el main menu, podemos encontrarnos cinco botones diferentes los cuales cumplen las funciones de: Registrar una cita del ciudadano, cola de espera, proceso de vacunación, historial de vacunación e historial de inicios de sesión.
 
-![] ()
+![](Imagenes/Captura%202.png)
 
 	2.1    Al ingresar al botón “Appointment Registration”, podemos apreciar diferentes apartados que deben ser completados con los datos de la persona como: su DUI, nombre, dirección, correo electrónico, número de teléfono, institución a la que pertenece, edad y como ultimo parámetro es si la persona sufre algún tipo de enfermedad.
 
-![] ()
+![](Imagenes/Captura%203.png)
 
-![] ()
+![](Imagenes/Captura%204.png)
 
 	2.2    Al seleccionar el botón “Wait Line”, podemos apreciar una pestaña en la que encontramos un dataGridView, que contiene una lista con la cita de cada uno de los pacientes activos, cada uno enumerado en orden de vacunación.
 
-![] ()
+![](Imagenes/Captura%205.png)
 
-![] ()
+![](Imagenes/Captura%206.png)
 
 	2.3    Al ingresar a la pestaña al botón “Vaccination Process” podemos ver un DataGridView donde se encuentran un listado con los nombres de cada uno de los pacientes inscritos en la base de datos, los cuales recibirán la vacuna contra el COVID. Para continuar se debe seleccionar el paciente con quien se proseguirá el proceso de vacunación.
 
-![] ()
+![](Imagenes/Captura%207.png)
 
-![] ()
+![](Imagenes/Captura%208.png)
 
 	2.3.1    Ya seleccionado el nombre del paciente continuará con el proceso de vacunación, a este se le mostrar una ventado que contendrá los consentimientos acerca de la vacuna contra el COVID. El paciente deberá leer el consentimiento y aceptarlos para vacunarse donde aparecerá una ventana de carga que representa el paciente siendo vacunado.
 
-![] ()
+![](Imagenes/Captura%209.png)
 
 	2.3.2 Al completarse la barra de carga, el paciente observara una ventana emergente que le preguntara al paciente si presento algún tipo de efecto secundario. En caso de seleccionar si, mediante un comboBox el paciente deberá seleccionar los síntomas presentados.
 
-![] ()
+![](Imagenes/Captura%2010.png)
 
 	2.4    Al presionar “Vaccination History”, se aprecian un listado de los pacientes que ya han recibido su primera dosis con ella automáticamente se genera la segunda cita de vacunación con su fecha y hora.
 
-![] ()
+![](Imagenes/Captura%2011.png)
 
-![] ()
+![](Imagenes/Captura%2012.png)
 
 	2.4.1    Como puede apreciarse, bajo la tabla donde está enlistada la información de los pacientes con sus respectivas citas de vacunación, se encuentra un botón nombrado “Create PDF” al presionarlo se abrirá el explorador de Windows el cual te pedirá una dirección donde generará un archivo pdf con todas las citas del sistema.
 
-![] ()
+![](Imagenes/Captura%2013.png)
 
 	2.5    El ultimo botón “Employee History”, cumple la función de historial. Al acceder en él lo que se puede ver una ventana con un listado que muestra los logins con su fecha y hora de los gestores que acceden a la aplicación.
 
-![] ()
+![](Imagenes/Captura%2014.png)
 
-![] ()
+![](Imagenes/Captura%2015.png)
 
 # Tabla de errores
 
 | Lugar|Error|Solucion |Imagen|
 | -- | -- | -- | -- |
-| Login | Usuario o contraseña no encontrados | Verirficar si el usuario o contraseña corresponden a los guardados en la base de datos | ![] 
+| Login | Usuario o contraseña no encontrados | Verirficar si el usuario o contraseña corresponden a los guardados en la base de datos | ![](Imagenes/Mensaje.png)
 
 
 
