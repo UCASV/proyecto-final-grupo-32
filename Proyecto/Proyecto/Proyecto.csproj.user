@@ -4,10 +4,34 @@
     <_LastSelectedProfileId>C:\Users\Diego\source\repos\Proyecto\Proyecto\Properties\PublishProfiles\FolderProfile2.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="View\frmCheckAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmCitizenInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmEffects.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\frmEmployeeLogin.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\frmMainPreviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmVaccinationConsents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmVaccinationPBtton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmWaitlineBtton.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
